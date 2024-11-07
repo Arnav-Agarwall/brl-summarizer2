@@ -3,3 +3,4 @@ langchain
 langchain-community
 fpdf
 python-docx
+huggingface_hub
